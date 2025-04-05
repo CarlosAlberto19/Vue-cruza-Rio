@@ -7,6 +7,8 @@
       <router-link to="/cubo3d" class="btn">🧊 Cubo 3D y Semáforo</router-link>
 
       <router-link to="/cruzar-rio" class="btn">🛶 Enigma del Río</router-link>
+
+      <router-link to="/ghost" class="btn">👻 Ghosts 'n Goblins Retro</router-link>
     </div>
   </div>
 </template>
